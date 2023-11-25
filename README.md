@@ -1,2 +1,2 @@
-# easesearch
+# easearch
 The ultimate research website. 

@@ -12,9 +12,9 @@ stack_page = "## Stack Page"
 
 pages = {
     "/": root,
-    "home-page": home_page,
-    "search-page": search_page,
-    "stack-page": stack_page,
+    "Home": home_page,
+    "Explore": search_page,
+    "Stacks": stack_page,
     "article-page": article_page,
 }
 

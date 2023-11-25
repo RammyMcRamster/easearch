@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-// Filename - App.js
-console.log("run js")
-console.log(1+4)
-=======
-import React from 'react'
-
 
 <html>
     <h1>Hello</h1>
@@ -16,4 +9,3 @@ import React from 'react'
     </button>
     
 </html>
->>>>>>> Stashed changes
